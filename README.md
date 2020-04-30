@@ -9,5 +9,4 @@ Quando uma oportunidade da lista estiver favoritada o ícone de coração dever�
 contrário deverá ser vazada, ou seja, sem preenchimento.
 A lista de favoritos deve ser salva em arquivo para que possa ser recuperado cada vez que o usuário entrar
 no aplicativo.
-Tenham o máximo de cuidado e atenção com a implementação: Isso é portifólio! Portifólio é comprovação
-de experiência professional
+
